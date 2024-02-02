@@ -10,7 +10,7 @@ Alt:: {
         Sleep 80
         Send "{e up}"
         Sleep 20
-        MouseClick "left"
+        MouseClick "right"
         Sleep 80
 
         if (active) {
