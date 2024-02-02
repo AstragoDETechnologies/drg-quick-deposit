@@ -1,5 +1,6 @@
 Alt:: {
     Hotkey "Alt", "Off"
+
     Loop {
         Send "{e down}"
         Sleep 20
@@ -13,5 +14,4 @@ Alt:: {
             break
         }
     }
-    ToolTip "Tooltip", 100, 150
 }
